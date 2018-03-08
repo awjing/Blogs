@@ -47,7 +47,7 @@ eg :
 
 ## 可供选择的命名方案
 ### 双连字符
->block-name__elem-name--mod-name
+>block-name__element-name--modifier-name
 - **名字全部使用小写**
 - **BEM 实体的名称中的每一个单词使用一个连字符分隔**
 - **使用双下划线（__）将元素的名称和模块的名称分离开**
