@@ -6,7 +6,7 @@
 #### <a href="example">三、栗子🌰</a>
 #### <a href="#axios API">四、axios API</a>
 
-#### <a name="#feature">一、特征</a>
+#### <a name="feature">一、特征</a>
 - **从浏览器中创建XMLHttpRequests**
 - **从node.js创建http请求**
 - **支持Promise API**
@@ -15,7 +15,7 @@
 - **取消请求**
 - **自动转换JSON数据**
 - **客户端支持防御XSRF**
-#### <a name="#install">二、安装</a>
+#### <a name="install">二、安装</a>
 1、npm安装
 >npm install axios
 
@@ -58,4 +58,4 @@ POST请求
 ```javascript
 
 ```
-#### <a name="#axios API">三、axios API</a>
+#### <a name="axios API">三、axios API</a>
