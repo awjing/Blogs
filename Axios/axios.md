@@ -3,8 +3,8 @@
 ### 目录
 #### <a href="#feature">一、特征</a>
 #### <a href="#install">二、安装</a>
-#### <a href="example">三、栗子🌰</a>
-#### <a href="#axios API">四、axios API</a>
+#### <a href="#example">三、栗子🌰</a>
+#### <a href="#axios-API">四、axios API</a>
 
 #### <a name="feature">一、特征</a>
 - **从浏览器中创建XMLHttpRequests**
@@ -58,4 +58,4 @@ POST请求
 ```javascript
 
 ```
-#### <a name="axios API">三、axios API</a>
+#### <a name="axios-API">四、axios API</a>
