@@ -18,3 +18,8 @@ class Greeter extends Component{
 }
 
 export default Greeter
+
+for (let i = 0;i < 10; i++) {
+
+}
+console.log(i);
